@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/workProject/SCtest/app/src/main/res/drawable/bg_round_white_gray_12r.xml" value="0.1785" />
+        <entry key="..\:/Android/workProject/SCtest/app/src/main/res/drawable/shape_block_cancel.xml" value="0.1785" />
+        <entry key="..\:/Android/workProject/SCtest/app/src/main/res/drawable/shape_edittext_cursor.xml" value="0.1785" />
+        <entry key="..\:/Android/workProject/SCtest/app/src/main/res/layout/activity_input.xml" value="0.16170534813319878" />
+        <entry key="..\:/Android/workProject/SCtest/app/src/main/res/layout/activity_result.xml" value="0.2971014492753623" />
+        <entry key="..\:/Android/workProject/SCtest/app/src/main/res/layout/item_result_list.xml" value="0.15287588294651866" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
